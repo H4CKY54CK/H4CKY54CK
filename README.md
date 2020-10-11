@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+Hello. I started learning Python about a year and a half ago, C++ about 3 months ago (intermittently admittedly), and I've been reading a lot of C and C# lately (though I can't write any to save my life). My favorite library is `numpy` (by far). Math is my favorite subject overall (though I'm still trying to piece together the knowledge I had back in high school, over a decade ago). I am absolutely guilty of obsessing over ways I can optimize my code. I don't golf code, though. I really enjoy building tools that make other tasks easier. And I suck at user bios and READMEs. But I do enjoy coding in general, and I think that's all that matters.
+
+A lot of people don't understand this part, but I tend to rewrite some of my projects more often than most people. It helps me solidify the knowledge, as well as expands my overall understanding of the tools I'm working with. I also like to build things from scratch so that I can even further develop my skillset on whatever it is I'm working on. Sometimes I just build things to build them. New ideas aren't born from doing the bare minimum to get by. Sometimes you have to get in over your head so that you're forced to get creative. This obviously isn't always the case, but it definitely does work (sometimes).
+
+
+
 <!--
 **H4CKY54CK/H4CKY54CK** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
